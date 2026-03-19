@@ -1,0 +1,51 @@
+---
+title: "Beobachtung Interview"
+format:
+  revealjs:
+    center: false
+    slide-number: true
+    controls: true
+    progress: true
+    transition: none
+    smaller: false
+    css: slides.css
+---
+
+# Beobachtung Interview
+<br><br>
+*Entwicklungs- und lerntheoretischer Blick auf Transitionen*
+<br><br>
+Dr. Christof Nägele · Uni Basel & PH FHNW
+
+::: {.links}
+[ADAM](https://adam.unibas.ch/go/crs/2097881). 
+[Programm](https://drive.switch.ch/index.php/s/8lu8yRhnX037duE)
+:::
+
+# Einstieg Beobachtung und Interview
+
+Beobachten und Fragen stellen gehören zu den alltäglichsten Formen der Informationsgewinnung. Gerade deshalb entsteht leicht der Eindruck, dass Beobachtungen und Interviews unkomplizierte Methoden sind, die schnell zu validen Erkenntnissen führen. Wissenschaftliche Beobachtung und wissenschaftliche Interviews unterscheiden sich jedoch grundlegend von Alltagspraktiken: Sie sind systematisch, theoriegeleitet, transparent und reflektiert.
+
+Der Blockkurs geht der Frage nach, wie Beobachtungen und Interviews so geplant und durchgeführt werden können, dass sie als wissenschaftliche Methoden belastbare Daten liefern – und wann welche Methode für eine gegebene Forschungsfrage geeignet ist.
+
+# Eigene Erfahrung
+
+Wann haben Sie zuletzt etwas beobachtet oder jemanden etwas gefragt?
+
+
+# Beobachtung
+
+Beobachtung als wissenschaftliche Methode erfordert Entscheidungen über ihren Gegenstand, ihre Strukturierung und ihre Dokumentation. Sie kann offen oder strukturiert, teilnehmend oder nicht-teilnehmend, verdeckt oder offen erfolgen. Entscheidend ist, dass Beobachtungen nicht „einfach stattfinden“, sondern gezielt geplant und systematisch durchgeführt werden.
+
+
+# Einstieg
+
+
+# Durchführung Beobachtung und Interview
+ 
+
+# Datenaufbereitung & Auswertung
+
+
+# Integration: Methode wählen
+
