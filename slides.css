@@ -205,3 +205,6 @@
   font-size: 0.40em !important;
 }
 
+.reveal .note {
+  display: none; /* versteckt */
+}

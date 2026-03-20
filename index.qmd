@@ -318,6 +318,51 @@ Döring, N. (2023). Beobachtung. In N. Döring, *Forschungsmethoden und Evaluati
 :::
 
 
+# Merkpunkte <br> Beobachtung planen und durchführen
+
+::: {.columns}
+
+::: {.column width="40%"}
+
+Planung
+
+::: {.small-text}
+- Ziel klären  
+- Beobachtungsgegenstand definieren (wer/was/wann/wo)  
+- Theoriebezug herstellen  
+- Beobachtungsform festlegen  
+  (teilnehmend / nicht-teilnehmend; offen / verdeckt; strukturiert / unstrukturiert)  
+- Erhebungsinstrument wählen  
+  (Leitfaden, Kategoriensystem, Beobachtungsbogen)  
+- Setting und Zeitpunkt planen  
+- Pretest durchführen  
+- Ethik klären (Einwilligung, Datenschutz)  
+:::
+
+:::
+
+::: {.column width="10%"}
+
+:::
+
+::: {.column width="40%"}
+
+Durchführung
+
+::: {.small-text}
+- systematisch und fokussiert beobachten  
+- Beschreibung und Interpretation trennen  
+- möglichst vollständig protokollieren  
+- Kontextinformationen festhalten  
+- Reaktivität reflektieren  
+- neutral bleiben (keine vorschnellen Bewertungen)  
+- Kategorien konsequent anwenden  
+- Protokoll zeitnah erstellen  
+:::
+
+:::
+:::
+
 
 # INTERVIEW
 
@@ -684,6 +729,355 @@ nicht vorschnell eingreifen – oft kommen dann wichtige Ergänzungen
 :::
 
 
+# Zuhören ist einfach
+
+Ich lese einen Text vor. 
+
+::: {.note}
+Frau Meyer, die Sekretärin von Herrn Ragler, erschien heute morgen nicht im Büro. 
+Herr Ragler wollte von Frau Meyers Freundin und Mitarbeiterin wissen, was los sei. 
+Die Freundin erzählte, dass Frau Meyer sich schon gestern krank gefühlt hätte. 
+Auf dem Schreibtisch von Frau Meyer lag ausserdem eine Zigarettenpackung auf der "Claus" geschrieben stand.
+
+:::
+
+::: {.source}
+Wellhöfer, P. R. (2004). *Schlüsselqaulifikation Sozialkompetenz*. Lucius & Lucius Verlagsgesellschaft mbH.
+:::
+
+
+# Was wurde gesagt? 
+
+<style>
+  table.aussagen {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    line-height: 1.25;
+    table-layout: fixed;
+  }
+
+  .aussagen th,
+  .aussagen td {
+    border: 1px solid #333;
+    padding: 10px 12px;
+    vertical-align: top;
+    text-align: left;
+  }
+
+  .aussagen th {
+    font-weight: 700;
+  }
+
+  .aussagen colgroup col:nth-child(1) {
+    width: 74%;
+  }
+
+  .aussagen colgroup col:nth-child(2),
+  .aussagen colgroup col:nth-child(3),
+  .aussagen colgroup col:nth-child(4) {
+    width: 8.67%;
+  }
+
+  .aussagen .statement {
+    min-height: 48px;
+    display: block;
+  }
+</style>
+
+<table class="aussagen">
+  <colgroup>
+    <col>
+    <col>
+    <col>
+    <col>
+  </colgroup>
+  <thead>
+    <tr>
+      <th>Aussage</th>
+      <th>Ja</th>
+      <th>Nein</th>
+      <th>Kann man nicht sagen</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><span class="statement">1. Die Sekretärin Frau Meyer ist krank.</span></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td><span class="statement">2. Der Vorgesetzte von Frau Meyer heisst Herr Müller.</span></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td><span class="statement">3. Der Vorgesetzte fragte die Freundin von Frau Meyer.</span></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td><span class="statement">4. Auf dem Schreibtisch lag eine leere Zigarettenpackung.</span></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td><span class="statement">5. Der Vorgesetzte von Frau Meyer hat sich geärgert.</span></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td><span class="statement">6. Die Sekretärin hat sich schon vorgestern krank gefühlt.</span></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td><span class="statement">7. Der Freund der Sekretärin heisst Claus.</span></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+
+# Zuhören - nicht bewerten
+
+
+Bewertende Aussagen können in vielen Kontexten nützlich sein, um Feedback zu geben, Präferenzen auszudrücken oder Entscheidungen zu treffen.
+
+Aber nicht in Inteviews!
+
+
+# Beschreiben - Bewerten
+
+<style>
+  table.beispiele {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18pt;
+    line-height: 1.3;
+    table-layout: fixed;
+  }
+
+  .beispiele th,
+  .beispiele td {
+    border: 1px solid #999;
+    padding: 16px 18px;
+    vertical-align: top;
+    text-align: left;
+  }
+
+  .beispiele th {
+    font-weight: 700;
+  }
+
+  .beispiele colgroup col {
+    width: 50%;
+  }
+</style>
+
+<table class="beispiele">
+  <colgroup>
+    <col>
+    <col>
+  </colgroup>
+  <thead>
+    <tr>
+      <th>Beobachtung / Fakt</th>
+      <th>Interpretation / Bewertung</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Das Buch hat 300 Seiten.</td>
+      <td>Das Buch ist viel zu lang und langweilig.</td>
+    </tr>
+    <tr>
+      <td>Der Schüler hat die Arbeit vor dem vereinbarten Termin abgegeben.</td>
+      <td>Der Schüler hat die Arbeit zu früh abgegeben, er hat schludrig gearbeitet.</td>
+    </tr>
+    <tr>
+      <td>Heute ist es 35° warm.</td>
+      <td>Heute ist es unerträglich heiss.</td>
+    </tr>
+    <tr>
+      <td>…</td>
+      <td>…</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+
+# Theorie - Frage
+
+<style>
+  table.thema {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14pt;
+    line-height: 1.3;
+    table-layout: fixed;
+  }
+
+  .thema th,
+  .thema td {
+    border: 1px solid #999;
+    padding: 14px 16px;
+    vertical-align: top;
+    text-align: left;
+  }
+
+  .thema th {
+    font-weight: 700;
+  }
+
+  .thema colgroup col:nth-child(1) {
+    width: 22%;
+  }
+
+  .thema colgroup col:nth-child(2) {
+    width: 28%;
+  }
+
+  .thema colgroup col:nth-child(3) {
+    width: 30%;
+  }
+
+  .thema colgroup col:nth-child(4) {
+    width: 20%;
+  }
+
+  .label {
+    font-weight: 700;
+  }
+</style>
+
+<table class="thema">
+  <colgroup>
+    <col>
+    <col>
+    <col>
+    <col>
+  </colgroup>
+
+  <thead>
+    <tr>
+      <th></th>
+      <th></th>
+      <th>Theoriebezug</th>
+      <th>Fragen</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr>
+      <td class="label">Fokusthema</td>
+      <td>Soziale Identität</td>
+      <td>(Stürmer &amp; Siem, 2020)</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td class="label">Oberthema</td>
+      <td>Gruppen</td>
+      <td>Entstehung und Funktion von Gruppen (Tajfel, 1981)</td>
+      <td>…</td>
+    </tr>
+    <tr>
+      <td class="label">Unterthemen</td>
+      <td>Wichtige Gruppen</td>
+      <td>Jugendkulturen, Gruppen (Preite, 2018)</td>
+      <td>…</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Identifikation mit einer Gruppe</td>
+      <td>Selbstkategorisierung (Köhler, 2016)</td>
+      <td>…</td>
+    </tr>
+    <tr>
+      <td>…</td>
+      <td>Einfluss der Gruppen</td>
+      <td>…</td>
+      <td>…</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+# Merkpunkte <br> Interview planen und durchführen
+
+::: {.columns}
+
+::: {.column width="40%"}
+
+Planung
+
+::: {.small-text}
+- Forschungsfrage klären  
+- Zielgruppe definieren und Stichprobe festlegen  
+- Interviewform wählen  
+  (leitfadengestützt, narrativ, problemzentriert etc.)  
+- Leitfaden entwickeln  
+  (Themenblöcke, offene Fragen, Reihenfolge)  
+- Fragen formulieren und prüfen  
+  (verständlich, offen, nicht suggestiv)  
+- Pretest durchführen  
+- Setting planen (Ort, Zeit, Rahmenbedingungen)  
+- Ethik klären (Einwilligung, Datenschutz, Aufzeichnung)  
+:::
+
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="40%"}
+
+Durchführung
+
+::: {.small-text}
+- Gespräch eröffnen und Vertrauen aufbauen (Rapport)  
+- Ziel und Ablauf transparent machen  
+- offen und aktiv zuhören  
+- mit offenen Fragen arbeiten, nachfragen und vertiefen  
+- Gespräch strukturieren, aber flexibel bleiben  
+- nicht suggestiv eingreifen  
+- Pausen zulassen und aushalten  
+- Gespräch angemessen abschliessen  
+- Interview dokumentieren / sichern (Audio, Notizen)  
+:::
+
+:::
+
+:::
+
 # TAG 2
 
 # Übung
@@ -754,6 +1148,56 @@ Was muss nun vor der Durchführung der interview noch geregelt werden?
 # Datenaufbereitung & Auswertung
 
 # Beobachtung
+
+Hands on
+
+# Daten aufbereiten
+
+::: {.columns}
+
+::: {.column width="50%"}
+
+### Interview Transkription
+
+::: {.small-text}
+- Audio → Text  
+- möglichst nah am Gesagten  
+- inkl. Pausen, Betonung etc.  
+- einheitliche Transkriptionsregeln  
+
+**Ergebnis:**  
+→ Rohdaten (Transkript)
+:::
+
+:::
+
+::: {.column width="50%"}
+
+### Beobachtung Strukturierung
+
+::: {.small-text}
+- Ordnung nach Fällen / Themen  
+- Segmentierung (Sinnabschnitte)  
+- Trennung von Daten und Interpretation  
+- Ergänzung von Memos  
+
+**Ergebnis:**  
+→ analysierbare Daten
+:::
+
+:::
+
+:::
+
+::: {.small-text}
+**Merksatz:**  
+Transkription erzeugt Daten – Strukturierung macht sie auswertbar
+:::
+
+
+# Tools
+
+
 
 # Transkription
 
@@ -1085,6 +1529,9 @@ Mayring, P., & Fenzl, T. (2019). Qualitative Inhaltsanalyse. In N. Baur & J. Bla
 ::: {.source}
 Mayring, P., & Fenzl, T. (2019). Qualitative Inhaltsanalyse. In N. Baur & J. Blasius (Eds), *Handbuch Methoden der empirischen Sozialforschung* (pp. 633–648). Springer Fachmedien Wiesbaden. https://doi.org/10.1007/978-3-658-21308-4_42
 :::
+
+
+
 
 
 
