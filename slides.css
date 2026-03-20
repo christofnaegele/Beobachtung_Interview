@@ -25,16 +25,20 @@
   letter-spacing: -0.01em;
 }
 .reveal .slides section h2 { 
-  font-size: 0.95em !important; 
-  font-weight: 700;
-  line-height: 1.12;
-  margin: 0 0 14px 0 !important;
+  font-size: 1.05em !important; 
+  font-weight: 750;
+  line-height: 1.08;
+  margin: 0 0 16px 0 !important;
+  letter-spacing: -0.01em;
+}
 }
 .reveal .slides section h3 { 
-  font-size: 0.90em !important; 
-  font-weight: 650;
-  line-height: 1.15;
-  margin: 0 0 12px 0 !important;
+  font-size: 1.05em !important; 
+  font-weight: 750;
+  line-height: 1.08;
+  margin: 0 0 16px 0 !important;
+  letter-spacing: -0.01em;
+}
 }
 
 /* 4) Paragraph + lists rhythm */
