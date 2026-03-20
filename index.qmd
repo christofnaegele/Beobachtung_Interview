@@ -15,8 +15,8 @@ format:
 <br><br>
 Dr. Christof Nägele · Uni Basel & PH FHNW
 
-::: {.source  }
-[ADAM](https://adam.unibas.ch/go/crs/2097881). 
+::: {.source}
+[ADAM](https://adam.unibas.ch/go/crs/2097881)
 [Programm](https://drive.switch.ch/index.php/s/8lu8yRhnX037duE)
 :::
 
@@ -701,75 +701,59 @@ Wie führen Studierende des IBW Interviews durch?
 - Durchführung
 
 
-# Kurzübung: Aktives Zuhören: 
+# Übung: Aktives Zuhören
 
-„Im Interview bedeutet aktives Zuhören:
-	•	nicht sofort zur nächsten Frage springen
-	•	Antworten aufgreifen und vertiefen
-	•	Bedeutungen klären statt interpretieren“
+Im Interview bedeutet aktives Zuhören:<br>
+- nicht sofort zur nächsten Frage springen<br>
+- Antworten aufgreifen und vertiefen<br>
+- Bedeutungen klären statt interpretieren<br><br>
 
-Übung in Dreiergruppen
+Übung in Dreiergruppen<br><br>
+
+Rollen: <br>
+A = Interviewer:in <br>
+B = Befragte:r<br>
+C = Beobachter:in<br>
 
 
-Rollen:
-	•	A = Interviewer:in
-	•	B = Befragte:r
-	•	C = Beobachter:in
+# Runde 1 (4–5 Min) – „ohne aktives Zuhören“
+ 
+**„Erzählen Sie von einer Situation, in der Sie unsicher waren.“**<br><br>
+ 
+Interviewer:in<br>
+- stellt Fragen, aber geht nicht auf Antworten ein<br>
+- keine Nachfragen, kein Paraphrasieren<br><br>
+
+Beobachter:in achtet auf:<br>
+- Brüche im Gespräch<br>
+- oberflächliche Antworten<br>
+- Vertiefung
+
+# Runde 2 (4–5 Min) – „mit aktivem Zuhören“
+
+Interviewer:in nutzt gezielt:<br>
+- Paraphrasieren: „Wenn ich Sie richtig verstehe, …“<br>
+- Vertiefende Nachfragen: „Können Sie das genauer beschreiben?“<br>
+- Aufgreifen von Begriffen: „Sie sagen ‚unsicher‘ – was genau heisst das für Sie?“<br><br>
+
+Beobachter:in achtet auf:<br>
+- längere / differenziertere Antworten<br>
+- mehr Beispiele / Konkretisierung<br>
+- Gesprächsfluss<br><br>
 
 
-*Runde* 1 (4–5 Min) – „ohne aktives Zuhören“
+# Auswertung im Plenum (2–3 Min)
 
-Thema (einfach, alltagsnah):
-👉 „Erzählen Sie von einer Situation, in der Sie unsicher waren.“
-
-Interviewer:
-	•	stellt Fragen, aber geht nicht auf Antworten ein
-	•	keine Nachfragen, kein Paraphrasieren
-
-Beobachter achtet auf:
-	•	Brüche im Gespräch
-	•	oberflächliche Antworten
-	•	wenig Vertiefung
-
-👉 kurze Rückmeldung (1 Min)
-
-*Runde* 2 (4–5 Min) – „mit aktivem Zuhören“
-
-Interviewer nutzt gezielt:
-	•	Paraphrasieren
-→ „Wenn ich Sie richtig verstehe, …“
-	•	Vertiefende Nachfragen
-→ „Können Sie das genauer beschreiben?“
-	•	Aufgreifen von Begriffen
-→ „Sie sagen ‚unsicher‘ – was genau heisst das für Sie?“
-
-Beobachter achtet auf:
-	•	längere / differenziertere Antworten
-	•	mehr Beispiele / Konkretisierung
-	•	Gesprächsfluss
-
-👉 kurze Rückmeldung (1–2 Min)
-
-*Kurze Auswertung im Plenum* (2–3 Min)
-
-Leitfrage:
-👉 „Was verändert aktives Zuhören im Interview?“
+Was verändert aktives Zuhören im Interview?
 
 
 # Durchführung Interview und Beobachtung
 
-Gemäss Beobachtungsraster und Interviewleitfaden
-
+Was muss nun vor der Durchführung der interview noch geregelt werden? 
 
 # Datenaufbereitung & Auswertung
 
 # Beobachtung
-
-
-
-
-# INTERVIEW
-
 
 # Transkription
 
@@ -820,62 +804,50 @@ Gemäss Beobachtungsraster und Interviewleitfaden
     </tr>
   </thead>
   <tbody>
-
     <tr>
       <td class="mono">montag kam er ins krankenhaus</td>
       <td>Interviewtext (nur Kleinschreibung!)</td>
     </tr>
-
     <tr>
       <td class="mono">MONtag kam er ins krankenhaus</td>
       <td>Betonung von Silben durch Großschreibung</td>
     </tr>
-
     <tr>
       <td class="mono">MONtag kam er (-) ins krankenhaus</td>
       <td>Geschätzte Kurzpause durch (-)</td>
     </tr>
-
     <tr>
       <td class="mono">MONtag kam er (---) ins krankenhaus</td>
       <td>Geschätzte längere Pause durch (---)</td>
     </tr>
-
     <tr>
       <td class="mono">MONtag kam er (2.0) ins krankenhaus</td>
       <td>Gemessene Pause mit Längenangabe in Sekunden (eine Dezimalstelle)</td>
     </tr>
-
     <tr>
-      <td class="mono">MONtag kam er (2.0) ins kranken\</td>
-      <td>Abbruch eines Wortes oder Satzes durch \</td>
+      <td class="mono">MONtag kam er (2.0) ins kranken&#92;</td>
+      <td>Abbruch eines Wortes oder Satzes durch &#92;</td>
     </tr>
-
     <tr>
-      <td class="mono">MONtag kam er (2.0) in_s kranken\</td>
+      <td class="mono">MONtag kam er (2.0) in_s kranken&#92;</td>
       <td>Wortverschmelzung durch _</td>
     </tr>
-
     <tr>
-      <td class="mono">MONtag kam er (2.0) in_s krankn\</td>
+      <td class="mono">MONtag kam er (2.0) in_s krankn&#92;</td>
       <td>Ausgefallene Buchstaben werden ausgelassen</td>
     </tr>
-
     <tr>
-      <td class="mono">MONtag ka:m er (2.0) in_s krankn\</td>
+      <td class="mono">MONtag ka:m er (2.0) in_s krankn&#92;</td>
       <td>Dehnung durch :</td>
     </tr>
-
     <tr>
-      <td class="mono">MONtag ka:m er (2.0) in_s krankn\ ((weinen))</td>
+      <td class="mono">MONtag ka:m er (2.0) in_s krankn&#92; ((weinen))</td>
       <td>Para- und außersprachliche Handlungen/Ereignisse in ((...))</td>
     </tr>
-
     <tr>
-      <td class="mono">MONtag ka:m er (2.0) in_s ≪ t krankn ≫\ ((weinen))</td>
+      <td class="mono">MONtag ka:m er (2.0) in_s ≪ t krankn ≫&#92; ((weinen))</td>
       <td>Tonhöhe fallend ≪ t ≫ (steigend: ≪ h … ≫)</td>
     </tr>
-
     <tr>
       <td class="mono">
         I: [Wann]<br>
@@ -964,19 +936,20 @@ Dresing, T., & Pehl, T. (2018). *Praxisbuch Interview, Transkription & Analyse: 
 :::
 
 
-
-
 # Interview 
+
+::: {.small-text}
 We found, for instance, that some of the black students we interviewed relied on cold knowledge' sources such as Google for initial information on VET pathways. Joe and Sarah, respondents from the provincial city, stated, <br>
 SJ: How did you know about the course?<br>
 Joe: I literally just looked online... I just typed in like "Fitness Courses', and
 the Uni popped up and it said like an NVQ.<br>
 Sarah: I just did a lot of research online.<br><br>
-Not dissimilar comments were made by respondents in the metropolitan city. Charles com-
-mented,<br>
+Not dissimilar comments were made by respondents in the metropolitan city. Charles commented,<br>
 Charles: But perhaps I was encouraged, maybe not explicitly, to undertake a vocational course, but that kind of meant that particular style of learning was something that was encouraged, particularly in my sort of GCSE years, so Year Ten and Year Eleven, that kind of hands-on learning approach and that actually reflected some of the courses that I took in GCSE
 Nathan drew on his aunt who suggested the course he should take.<br><br>
 Nathan: To be honest, no teachers actually took me and said look, this is what you should do, or this is what I think you should do, or anything like that. It was just, they were just happy that I finished GCSEs, that I was kind of out of their hair.
+
+:::
 
 ::: {.source}
 Avis, J., Orr, K., & Warmington, P. (2018). Black students in VET: Learner experiences in an english metropolitan and provincial setting. Zenodo. https://zenodo.org/record/1319626
@@ -984,6 +957,7 @@ Avis, J., Orr, K., & Warmington, P. (2018). Black students in VET: Learner exper
 
 # Interview Strukturierende Inhaltsanalyse
 
+::: {.small-text}
 Bei den strukturierenden qualitativen Inhaltsanalysen handelt es sich um deduktive Kategorienanwendungen, bei denen das Kategoriensystem vorab theoriegeleitet entwickelt und dann an den Text herangetragen wird. 
 
 Hier unterscheiden wir zwischen einfachen Kategorienlisten (nominales Skalenniveau) und ordinal geordneten Kategoriensystemen (z.B. viel mittel – wenig). 
@@ -991,6 +965,7 @@ Hier unterscheiden wir zwischen einfachen Kategorienlisten (nominales Skalennive
 Mit beiden können dann komplexere quantitative Analysen durchgeführt werden. 
 
 Zentrales Hilfsmittel stellt hier der Kodierleitfaden dar, der für jede Kategorie eine Definition, typische Textpassagen als Ankerbeispiele und Kodierregeln zur Abgrenzung zwischen den Kategorien enthält (zur Begründung siehe die Ausführungen im nächsten Abschnitt). Der Kodierleitfaden wird zunächst theoriegeleitet entwickelt und in einer Pilotphase am Material weiter ausgebaut und ergänzt. Die Regeln werden in Tabellenform zusammengestellt. 
+:::
 
 ::: {.source}
 Mayring, P., & Fenzl, T. (2019). Qualitative Inhaltsanalyse. In N. Baur & J. Blasius (Eds), *Handbuch Methoden der empirischen Sozialforschung* (pp. 633–648). Springer Fachmedien Wiesbaden. https://doi.org/10.1007/978-3-658-21308-4_42
