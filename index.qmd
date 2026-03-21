@@ -128,6 +128,7 @@ This study seeks to describe: (i) who delivers informal education to residents; 
 Varpio, L., Bidlake, E., Casimiro, L., Hall, P., Kuziemsky, C., Brajtman, S., & Humphrey-Murto, S. (2014). Resident experiences of informal education: How often, from whom, about what and how. *Medical Education, 48*(12), 1220–1234. (25413915). https://doi.org/10.1111/medu.12549
 :::
 
+
 # Method Example B
 
 METHODS This study describes instances of informal learning in GME captured through non-participant observations in two contexts: a palliative care hospice and a paediatric hospital. Analysis of 60 hours of observation data involved a process of collaborative team consensus to: (i) identify instances of informal intraprofessional and informal interprofessional education, and (ii) categorise these instances by CanMEDS Role and teaching technique.
@@ -135,7 +136,6 @@ METHODS This study describes instances of informal learning in GME captured thro
 <a href="zotero://select/library/items/SFXUUJUG">
   Open in Zotero
 </a>
-
 
 # Beobachtung planen
 
@@ -1491,8 +1491,6 @@ Dresing, T., & Pehl, T. (2018). *Praxisbuch Interview, Transkription & Analyse: 
 
 [https://töggl.ch/](https://töggl.ch/)
 
-[https://www.audiotranskription.de/](https://www.audiotranskription.de/)
-
 [https://sonix.ai/researchers](https://sonix.ai/researchers)
 
 
@@ -1668,7 +1666,7 @@ Küsters, I. (2022). Narratives Interview. In N. Baur & J. Blasius (Eds), Handbu
 
 [Dokumentarische Methode](https://www.audiotranskription.de/wp-content/uploads/2023/07/audiotranskription_Methodenbeispiel_Band1_DokumentarischeMethode_Ansicht.pdf)<br>
 [Metaphernanalyse](https://www.audiotranskription.de/wp-content/uploads/2023/07/audiotranskription_Methodenbeispiel_Band2_Metaphernanalyse_Ansicht.pdf<br>)
-[Qualitative Inhaltsanalyse](https://www.audiotranskription.de/wp-content/uploads/2024/05/audiotranskription_Methodenbeispiel_Band3_QualitativeInhaltsanalyse_Ansicht.pdf<br>
+[Qualitative Inhaltsanalyse](https://www.audiotranskription.de/wp-content/uploads/2024/05/audiotranskription_Methodenbeispiel_Band3_QualitativeInhaltsanalyse_Ansicht.pdf)<br>
 [Hermeneutische Sequenzanalyse](https://www.audiotranskription.de/wp-content/uploads/2023/07/audiotranskription_Methodenbeispiel_Band4_RekonstruktivHermeneutischeAnalyse_Ansicht.pdf)<br>
 ...
 
