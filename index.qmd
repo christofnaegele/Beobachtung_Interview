@@ -1172,6 +1172,23 @@ Lent, R. W., & Brown, S. D. (2019). Social cognitive career theory at 25: Empiri
 :::
 
 
+# Diskurs
+
+Der Begriff „Diskurs“ bezeichnet in seiner allgemeinsten Bedeutung die Produktion sozialen Sinns, verstanden als die Darstellung, Vermittlung und Konstitution von bedeutungstragenden Objektivationen in kommunikativen Prozessen.<br><br>
+
+Beispiel Interview: „Ich wusste lange nicht, was ich machen will… aber heute muss man halt flexibel sein und sich anpassen.“<br><br>
+Zentrale Begriffe: „nicht wissen“, „flexibel sein“, „sich anpassen“<br>
+
+Das Interview reproduziert einen Diskurs, in dem:<br>
+- Laufbahn nicht planbar, sondern anpassungsorientiert ist<br>
+- Individuen Verantwortung für Unsicherheit übernehmen sollen<br>
+
+::: {.source}
+Traue, B., Pfahl, L., & Schürmann, L. (2022). Diskursanalyse. In N. Baur & J. Blasius (Eds), *Handbuch Methoden der empirischen Sozialforschung* (pp. 627–645). Springer Fachmedien. https://doi.org/10.1007/978-3-658-37985-8_39
+:::
+
+
+
 # Gruppenarbeit
 
 
@@ -1188,7 +1205,6 @@ Rollen: <br>
 A = Interviewer:in <br>
 B = Befragte:r<br>
 C = Beobachter:in<br>
-
 
 # Runde 1 (4–5 Min) – „ohne aktives Zuhören“
  
@@ -1216,11 +1232,6 @@ Beobachter:in achtet auf:<br>
 - Gesprächsfluss<br><br>
 
 
-# Auswertung im Plenum (2–3 Min)
-
-Was verändert aktives Zuhören im Interview?
-
-
 # Durchführung Interview und Beobachtung
 
 Was muss nun vor der Durchführung der interview noch geregelt werden? 
@@ -1237,7 +1248,7 @@ Hands on
 
 ::: {.column width="50%"}
 
-## Interview Transkription
+Interview Transkription
 
 ::: {.small-text}
 - Audio → Text  
@@ -1253,7 +1264,7 @@ Hands on
 
 ::: {.column width="50%"}
 
-## Beobachtung Strukturierung
+Beobachtung Strukturierung
 
 ::: {.small-text}
 - Ordnung nach Fällen / Themen  
@@ -1268,10 +1279,6 @@ Hands on
 :::
 
 :::
-
-
-# Tools
-
 
 
 # Transkription
@@ -1455,6 +1462,29 @@ Dresing, T., & Pehl, T. (2018). *Praxisbuch Interview, Transkription & Analyse: 
 :::
 
 
+
+# Transkription
+
+
+[https://www.maxqda.com/de/https://www.maxqda.com/de/](https://www.maxqda.com/de/https://www.maxqda.com/de/)
+
+[https://lumivero.com/products/nvivo/](https://lumivero.com/products/nvivo/)
+
+[https://atlasti.com/de](https://atlasti.com/de)
+
+<br>
+
+[https://www.amberscript.com/de/](https://www.amberscript.com/de/)
+
+[https://töggl.ch/](https://töggl.ch/)
+
+[https://www.audiotranskription.de/](https://www.audiotranskription.de/)
+
+[https://sonix.ai/researchers](https://sonix.ai/researchers)
+
+
+
+
 # Interview 
 
 ::: {.small-text}
@@ -1604,10 +1634,6 @@ Mayring, P., & Fenzl, T. (2019). Qualitative Inhaltsanalyse. In N. Baur & J. Bla
 ::: {.source}
 Mayring, P., & Fenzl, T. (2019). Qualitative Inhaltsanalyse. In N. Baur & J. Blasius (Eds), *Handbuch Methoden der empirischen Sozialforschung* (pp. 633–648). Springer Fachmedien Wiesbaden. https://doi.org/10.1007/978-3-658-21308-4_42
 :::
-
-
-
-
 
 
 # Integration: Methode wählen
