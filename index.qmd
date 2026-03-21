@@ -1187,6 +1187,18 @@ Das Interview reproduziert einen Diskurs, in dem:<br>
 Traue, B., Pfahl, L., & Schürmann, L. (2022). Diskursanalyse. In N. Baur & J. Blasius (Eds), *Handbuch Methoden der empirischen Sozialforschung* (pp. 627–645). Springer Fachmedien. https://doi.org/10.1007/978-3-658-37985-8_39
 :::
 
+# Narratives Interview
+
+
+Das narrative Interview ist eine Interviewform, in der ein Befragter auf eine Eingangsfrage bzw. Erzählaufforderung ohne Unterbrechungen, ohne Vorgaben und in großer Ausführlichkeit antworten kann.<br><br>
+
+Erzählung<br>
+-> immanentes Nachfragen<br> 
+-> exmanentes Nachfragen<br>
+
+::: {.source}
+Küsters, I. (2022). Narratives Interview. In N. Baur & J. Blasius (Eds), Handbuch Methoden der empirischen Sozialforschung (pp. 893–900). Springer Fachmedien. https://doi.org/10.1007/978-3-658-37985-8_56
+:::
 
 
 # Gruppenarbeit
@@ -1236,11 +1248,11 @@ Beobachter:in achtet auf:<br>
 
 Was muss nun vor der Durchführung der interview noch geregelt werden? 
 
+Zum Beispiel das hier: [Information und Datenschutz](https://drive.switch.ch/index.php/s/upSyyvzNad0u3S1)
+
+
 # Datenaufbereitung & Auswertung
 
-# Beobachtung
-
-Hands on
 
 # Daten aufbereiten
 
@@ -1473,6 +1485,7 @@ Dresing, T., & Pehl, T. (2018). *Praxisbuch Interview, Transkription & Analyse: 
 [https://atlasti.com/de](https://atlasti.com/de)
 
 <br>
+[https://www.audiotranskription.de/](https://www.audiotranskription.de/)
 
 [https://www.amberscript.com/de/](https://www.amberscript.com/de/)
 
@@ -1634,6 +1647,30 @@ Mayring, P., & Fenzl, T. (2019). Qualitative Inhaltsanalyse. In N. Baur & J. Bla
 ::: {.source}
 Mayring, P., & Fenzl, T. (2019). Qualitative Inhaltsanalyse. In N. Baur & J. Blasius (Eds), *Handbuch Methoden der empirischen Sozialforschung* (pp. 633–648). Springer Fachmedien Wiesbaden. https://doi.org/10.1007/978-3-658-21308-4_42
 :::
+
+
+
+# Narratives Interview
+
+Die Auswertung von narrativen Interviews geschieht anhand einer exakten, Pausen, abgebrochene Worte, parasprachliche Äußerungen miterfassenden Verschriftlichung der Tonaufzeichnung des Interviews.<br>
+
+1. Unterscheidung zwischen Erzählungen und anderen Textsorten wie Argumentationen und Beschreibungen<br>
+2. Untergliederung der Narrationspassagen in einzelne Segmente<br><br>
+
+Interpretation: Wort für Wort, Satz für Satz, Segment für Segment am Text entlang und fokussiert sich auf die Rekonstruktion und Analyse des erinnerten und erzählten Ablaufs des Prozessgeschehens.
+
+::: {.source}
+Küsters, I. (2022). Narratives Interview. In N. Baur & J. Blasius (Eds), Handbuch Methoden der empirischen Sozialforschung (pp. 893–900). Springer Fachmedien. https://doi.org/10.1007/978-3-658-37985-8_56
+:::
+
+
+# Vielfalt
+
+[Dokumentarische Methode](https://www.audiotranskription.de/wp-content/uploads/2023/07/audiotranskription_Methodenbeispiel_Band1_DokumentarischeMethode_Ansicht.pdf)<br>
+[Metaphernanalyse](https://www.audiotranskription.de/wp-content/uploads/2023/07/audiotranskription_Methodenbeispiel_Band2_Metaphernanalyse_Ansicht.pdf<br>)
+[Qualitative Inhaltsanalyse](https://www.audiotranskription.de/wp-content/uploads/2024/05/audiotranskription_Methodenbeispiel_Band3_QualitativeInhaltsanalyse_Ansicht.pdf<br>
+[Hermeneutische Sequenzanalyse](https://www.audiotranskription.de/wp-content/uploads/2023/07/audiotranskription_Methodenbeispiel_Band4_RekonstruktivHermeneutischeAnalyse_Ansicht.pdf)<br>
+...
 
 
 # Integration: Methode wählen
