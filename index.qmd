@@ -9,15 +9,24 @@ format:
     transition: none
     smaller: false
     css: slides.css
+
 ---
 
+
 # Beobachtung und Interview
+
+::: {=html}
+<img src="images/Logo_UniBS.jpg" class="print-logo" alt="Logo">
+<div class="print-name">C. Nägele, IBW Uni Basel</div>
+:::
+
 <br><br>
 Dr. Christof Nägele · Uni Basel & PH FHNW
 
 ::: {.source}
-[ADAM](https://adam.unibas.ch/go/crs/2097881)
-[Programm](https://drive.switch.ch/index.php/s/8lu8yRhnX037duE)
+[ADAM](https://adam.unibas.ch/go/crs/2097881)<br>
+[Programm](https://drive.switch.ch/index.php/s/8lu8yRhnX037duE)<br>
+[PDF](https://drive.switch.ch/index.php/s/ALljQ0ibneMrpAJ)
 :::
 
 # Einstieg Beobachtung und Interview
@@ -53,6 +62,10 @@ Führen Sie aktuell eine Beobachtungsstudie durch oder planen Sie eine Beobachtu
 Interview 1972: Brandt zu Währungspolitik nach Konsultation mit Pompidou.
 :::
 
+
+::: {.source}
+[https://youtu.be/lM9i-8j45xg?si=SGA3wJ8rJJwVyEUn](https://youtu.be/lM9i-8j45xg?si=SGA3wJ8rJJwVyEUn)
+:::
 
 # Fragen stellen ist einfach
 
@@ -1007,17 +1020,159 @@ Durchführung
 
 # Übung
 
-*Interview*
+*Interview*<br>
 Überlegen Sie sich Fragen und einen Ablauf für ein Interview. Es ist ein Interview zu Lebens- und Karriereverläufen. Die interessierende Zielgruppe sind Studierende an der Uni Basel in einem Studiengang am IBW. Wie waren deren Wege ins Studium?
 
 - Entwicklung eines kurzen interviewleitfadens
 - Durchführung
 
-*Beobachtung*
+*Beobachtung*<br>
 Wie führen Studierende des IBW Interviews durch? 
 
 - Entwicklung eins Beobachtungsrasters 
 - Durchführung
+
+
+# Interviewleitfaden
+
+- Ausgangspunkt klären
+
+- Themenblöcke -> Einzelfragen
+
+- Gute Fragen formulieren
+
+- Nachfragen einplanen
+
+
+# Ausganspunkt klären
+
+Frage nach der Theorie
+
+In der schnelllebigen Arbeitswelt des 21 Jahrhunderts sind vorgegebene Laufbahnpfade im Sinne einer Fach- oder Führungslaufbahn nicht mehr in dem Ausmaß planbar wie früher Als Folge davon verlaufen die beruflichen Laufbahnen heute individualisierter und ohne vorgegebenen Rahmen (Schreiber, 2020).
+
+
+- Paradigma der *Passung* (1 Hälfte des 20 Jh ) -> psychometrische Fragebogen<br>
+- Paradigma des *lebenslangen Lernens* (2 Hälfte des 20 Jh ) -> Coaching-Ansätze<br>
+- Paradigma des *Life Designs* (21 Jh ) -> Narration fokussiert<br>
+
+
+::: {.source}
+Savickas, M. L., Nota, L., Rossier, J., Dauwalder, J.-P., Duarte, M. E., Guichard, J., Soresi, S., Van Esbroeck, R., & van Vianen, A. E. M. (2009). Life designing: A paradigm for career construction in the 21st century. Journal of Vocational Behavior, 75(3), 239–250. https://doi.org/10.1016/j.jvb.2009.04.004<br>
+Schreiber, M. (2020). Narration und Psychometrie in der beruflichen Laufbahnentwicklung. In K. Driesel-Lange, U. Weyland, & B. Ziegler (Eds), Berufsorientierung in Bewegung: Themen, Erkenntnisse und Perspektiven.
+:::
+
+
+# Life-Design
+
+*Career Construction*
+aktive Konstruktion/Gestaltung der eigenen Biografie -> Sinn, Identität und Anpassung
+
+*Career Adaptability* (Anpassungsfähigkeit)
+Concern → Zukunftsorientierung
+Control → Selbstverantwortung
+Curiosity → Exploration
+Confidence → Selbstwirksamkeit
+
+*Life Themes* (Lebensthemen)
+Individuelle Motive, Werte, Erfahrungen
+„Roter Faden“ der Laufbahn
+Bedeutung statt nur Passung
+
+*Narrative Identität*
+Menschen erzählen ihre Laufbahn als Geschichte -> Beratung: Geschichten rekonstruieren & weiterentwickeln
+
+
+::: {.source}
+Savickas, M. L., Nota, L., Rossier, J., Dauwalder, J.-P., Duarte, M. E., Guichard, J., Soresi, S., Van Esbroeck, R., & van Vianen, A. E. M. (2009). Life designing: A paradigm for career construction in the 21st century. Journal of Vocational Behavior, 75(3), 239–250. https://doi.org/10.1016/j.jvb.2009.04.004<br>
+:::
+
+
+# Inadequate Fit -> Motivation
+
+Richardson et al. (2007), like others, stated that career switching is likely to occur as a result of an inadequate fit between the individual’s interest, needs and personality, and her or his current occupation. Career conversion is conceptualised as the interaction of two processes: The first pushes the individual out of her or his present job and the second pulls her or him into another career, thus describing several intertwined reasons both for leaving a career and for entering another. The reasons for leaving a prior occupation generally also relate to motives for turning specifically to teaching (Crow et al., 1990; Priyadharshini & Robinson-Pant, 2003; Serow & Forrest, 1994).
+
+::: {.source}
+Berger, J.-L., & D’Ascoli, Y. (2012). Becoming a VET teacher as a second career: Investigating the determinants of career choice and their relation to perceptions about prior occupation. Asia-Pacific Journal of Teacher Education, 40(3), 317–341. https://doi.org/10.1080/1359866X.2012.700046  
+:::
+
+
+# Questions
+
+::: {.cols .small-text}
+
+::: {.col}
+**I chose to become a teacher because…**
+
+*Ability*  
+I have the qualities of a good teacher.
+
+*Intrinsic career value*  
+I am interested in teaching.
+
+*Opportunity*  
+L’opportunité d’enseigner s’est présentée.
+
+*Job security*  
+Teaching will offer a steady career path.
+
+*Time for family*  
+Part-time teaching could allow more family time.
+:::
+
+::: {.col}
+*Enhance social equity*  
+Teaching will allow me to raise the ambitions of under-privileged youth.
+
+*Shape future of youth / Make social contribution*  
+Teaching will allow me to shape child and adolescent values.
+
+*Work with youth*  
+I want a job that involves working with children and adolescents.
+
+*Prior teaching and learning experiences*  
+I have had inspirational teachers.
+
+*Social influences*  
+My friends think I should become a teacher.
+
+*Social dissuasion*  
+Were you encouraged to pursue careers other than teaching?
+:::
+
+:::
+
+::: {.source}
+Berger, J.-L., & D’Ascoli, Y. (2012). Becoming a VET teacher as a second career: Investigating the determinants of career choice and their relation to perceptions about prior occupation. Asia-Pacific Journal of Teacher Education, 40(3), 317–341. https://doi.org/10.1080/1359866X.2012.700046  
+:::
+
+# Decision
+
+Components or phases of exploration and
+decision-making
+
+- Explore self in relation to work options. 
+- Explore potentially compatible occupations
+- Use informed (vs. "true") reasoning to relate self to occupational alternatives and frame a choice goal
+- Implement the choice goal
+- Maintain or change the choice (career sustainability)
+
+
+::: {.source}
+Lent, R. W., & Brown, S. D. (2020). Career decision making, fast and slow: Toward an integrative model of intervention for sustainable career choice. Journal of Vocational Behavior, 120, 103448. https://doi.org/10.1016/j.jvb.2020.103448
+:::
+
+
+# Self-Management
+
+![](images/Lent-Carer-Self-Management.png)
+
+
+::: {.source}
+Lent, R. W., & Brown, S. D. (2019). Social cognitive career theory at 25: Empirical status of the interest, choice, and performance models. Journal of Vocational Behavior, 115(4), 103316. https://doi.org/10.1177/1069072719852736
+:::
+
+
+# Gruppenarbeit
 
 
 # Übung: Aktives Zuhören
@@ -1112,11 +1267,6 @@ Hands on
 
 :::
 
-:::
-
-::: {.small-text}
-**Merksatz:**  
-Transkription erzeugt Daten – Strukturierung macht sie auswertbar
 :::
 
 
